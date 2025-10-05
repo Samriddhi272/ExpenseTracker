@@ -18,7 +18,10 @@ All the functions are created and they run fine and are providing the required o
 For now- This app asks for expense name, amount spend and the category and then it saves the data provided into a file named"Expenses.csv" Then it keeps adding the all the expenses category wise and shows total amount spent.
 I have also thought of adding date of the expense, so that we can easily track monthly /weekly expense.
 I am facing a problem ,previously my data was being grouped according to category and then i added date feature so that monthly expenses can be displayed in datewise manner from particular date to a particular date and categorically. 
-
+I have added all the features.
+I have made a simple basic ui using streamlit for tracking.
+I faced issues in using date factor to implement but i resolved it and then submitted .
+I will work on it to make it's UI better and use ML to predict future expenses using pattern of monthly expenses.
 
 
 
