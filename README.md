@@ -22,6 +22,8 @@ I have added all the features.
 I have made a simple basic ui using streamlit for tracking.
 I faced issues in using date factor to implement but i resolved it and then submitted .
 I will work on it to make it's UI better and use ML to predict future expenses using pattern of monthly expenses.
+In UI it is not working for date but it is showing total expenses categorically for a given period of time.
+
 
 
 
